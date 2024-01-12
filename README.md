@@ -1,7 +1,8 @@
 # ARCGPTs
 
 Welcome to ARC's ChatGPT GPT Repository
+_____________________________________________
 
-🤖 GPT API Advisor
-Helpful guide for GPT API integration and usage with GitHub integration.
-Instruction | GPT | OPENAPI.JSON * GitHub OAuth / GPT API
+1. 💊 **MedicGPT**  
+   _A medical aid bot providing diagnosis and educational insights._  
+   [Instruction](https://github.com/ruvnet/gpts/blob/main/instructions/MedicGPT.txt) | [GPT](https://chat.openai.com/g/g-9t12PrN8v-medicgpt)
