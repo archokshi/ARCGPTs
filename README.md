@@ -11,3 +11,8 @@ _____________________________________________
 2. **Calorie Companion**  
    _Health and Diet Advisor, analyzing meals and activities for calorie management._  
    [Instruction](https://github.com/archokshi/ARCGPTs/blob/main/instructions/CalorieCompanion.txt) | [GPT](https://chat.openai.com/g/g-04wowhMKy-calorie-companion)
+
+
+2. **BestDealGPT**  
+   _Best Deal at Your Fingertips._  
+   [Instruction](https://github.com/archokshi/ARCGPTs/blob/main/instructions/BestDealGPT.txt) | [GPT](https://chat.openai.com/g/g-BkxDAI6MP-bestdealgpt)
