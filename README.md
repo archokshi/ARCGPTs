@@ -21,3 +21,8 @@ _____________________________________________
 4. **Artificial Intelligence Hardware System Builder**  
    _AI hardware system design assistant with follow-ups and weblinks._  
    [Instruction](https://github.com/archokshi/ARCGPTs/blob/main/instructions/AIHardwareSystemBuilder.txt) | [GPT](https://chat.openai.com/g/g-x7slzQPaB-artificial-intelligence-hardware-system-builder)
+
+
+4. **RTL GPT**  
+   _Expert in Hardware Design and Verification._  
+   [Instruction](https://github.com/archokshi/ARCGPTs/blob/main/instructions/RTLGPT.txt) | [GPT](https://chat.openai.com/g/g-VEABZoJPE-rtl-gpt)
