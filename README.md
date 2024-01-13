@@ -13,6 +13,11 @@ _____________________________________________
    [Instruction](https://github.com/archokshi/ARCGPTs/blob/main/instructions/CalorieCompanion.txt) | [GPT](https://chat.openai.com/g/g-04wowhMKy-calorie-companion)
 
 
-2. **BestDealGPT**  
+3. **BestDealGPT**  
    _Best Deal at Your Fingertips._  
    [Instruction](https://github.com/archokshi/ARCGPTs/blob/main/instructions/BestDealGPT.txt) | [GPT](https://chat.openai.com/g/g-BkxDAI6MP-bestdealgpt)
+
+
+4. **Artificial Intelligence Hardware System Builder**  
+   _AI hardware system design assistant with follow-ups and weblinks._  
+   [Instruction](https://github.com/archokshi/ARCGPTs/blob/main/instructions/AIHardwareSystemBuilder.txt) | [GPT](https://chat.openai.com/g/g-x7slzQPaB-artificial-intelligence-hardware-system-builder)
