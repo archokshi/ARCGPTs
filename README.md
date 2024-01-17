@@ -1,5 +1,5 @@
-# The rUv ChatGPT GPT Repository
-![GPT Repo](https://github.com/ruvnet/gpts/blob/main/images/gpt-repo.png?raw=true)
+# The ARC's ChatGPT GPT Repository
+![GPT Repo](https://github.com/archokshi/ARCGPTs/blob/main/images/ARCGPTs.png?raw=true)
 Welcome to ARC's ChatGPT GPT Repository
 
 # ARCGPTs
