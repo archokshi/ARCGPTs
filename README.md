@@ -1,6 +1,8 @@
-# ARCGPTs
-
+# The rUv ChatGPT GPT Repository
+![GPT Repo](https://github.com/ruvnet/gpts/blob/main/images/gpt-repo.png?raw=true)
 Welcome to ARC's ChatGPT GPT Repository
+
+# ARCGPTs
 _____________________________________________
 
 1. **Dream Home Discoverer**  
